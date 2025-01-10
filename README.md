@@ -5,7 +5,7 @@
 # NOTE: JUST USE IT AS STANDARD PYTHONS INPUT() AND PRINT() FUNCTIONS.
 
 # How To Set-Up?
-  # Windows
+  # Windows OS:
     1) Download QuickPrint Library From GitHub: $ "python3 -m pip install git+https://github.com/dusanrsc/quickprint.git"
 
 # How To Use?
