@@ -9,4 +9,4 @@
 
 # How To Use?
 1) from quickprint.quickprint import *
-2) p("Hello, world.")
+2) p("Hello, world.")"# quickprint" 
