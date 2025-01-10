@@ -21,7 +21,7 @@ p(f"Hello, {_input}!")
 p("Hello, world!")
 ```
 # Output Example:
-    Hello, Dušan!
+    Hi, Dušan!
     Hello, world!
 
 # Uninstall QuickPrint:
