@@ -8,6 +8,9 @@
 # Download QuickPrint Library From GitHub with:
     python -m pip install git+https://github.com/dusanrsc/quickprint.git
 
+# OR Upgrade QuickPrint:
+    python -m pip install --upgrade git+https://github.com/dusanrsc/quickprint.git
+
 # How To Use?
     from quickprint.quickprint import *
 
@@ -16,3 +19,6 @@
 
 # Output:
     Hello, Dušan!
+
+# Uninstall QuickPrint:
+    python -m pip uninstall quickprint
