@@ -11,8 +11,8 @@
 # How To Use?
     from quickprint.quickprint import *
 
-    _input_your_name = i("Your Name: ")
-    p(f"Hello, {_input_your_name}!")
+    _input = i("Your Name: ")
+    p(f"Hello, {_input}!")
 
 # Output:
     Hello, Dušan!
