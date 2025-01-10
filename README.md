@@ -6,8 +6,9 @@
 
 # How To Set-Up?
 # Download QuickPrint Library From GitHub with Command:
-    python3 -m pip install git+https://github.com/dusanrsc/quickprint.git
+    python -m pip install git+https://github.com/dusanrsc/quickprint.git
 
 # How To Use?
     1) from quickprint.quickprint import *
+    #
     2) p("Hello, world.")
