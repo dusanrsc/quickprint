@@ -10,5 +10,4 @@
 
 # How To Use?
     from quickprint.quickprint import *
-    
-    2) p("Hello, world.")
+    p("Hello, world.")
