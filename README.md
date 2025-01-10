@@ -10,7 +10,7 @@ python -m pip install git+https://github.com/dusanrsc/quickprint.git
 
 # or Upgrade QuickPrint:
 ```bash
-    python -m pip install --upgrade git+https://github.com/dusanrsc/quickprint.git
+python -m pip install --upgrade git+https://github.com/dusanrsc/quickprint.git
 ```
 
 # How To Use? With Example.
@@ -23,8 +23,7 @@ _input = i("Your Name: ")
 p(f"Hello, {_input}!")
 ```
 # Output Example:
-
-Hello, Dušan!
+    Hello, Dušan!
 
 # Uninstall QuickPrint:
 ```bash
