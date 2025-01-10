@@ -6,7 +6,7 @@
 
 # How To Set-Up?
 # Download QuickPrint Library From GitHub with Command:
-    python -m pip install git+https://github.com/dusanrsc/quickprint.git
+    <span style="color: red;">python -m pip install git+https://github.com/dusanrsc/quickprint.git</span>
 
 # How To Use?
     from quickprint.quickprint import *
