@@ -4,14 +4,10 @@
 
 # How To Set-Up?
 # Download QuickPrint Library From GitHub with:
-```bash
-python -m pip install git+https://github.com/dusanrsc/quickprint.git
-```
+    python -m pip install git+https://github.com/dusanrsc/quickprint.git
 
 # or Upgrade QuickPrint:
-```bash
-python -m pip install --upgrade git+https://github.com/dusanrsc/quickprint.git
-```
+    python -m pip install --upgrade git+https://github.com/dusanrsc/quickprint.git
 
 # How To Use? With Example.
 ```python
@@ -26,6 +22,4 @@ p(f"Hello, {_input}!")
     Hello, Dušan!
 
 # Uninstall QuickPrint:
-```bash
-python -m pip uninstall quickprint
-```
+    python -m pip uninstall quickprint
