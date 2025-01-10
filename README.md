@@ -9,7 +9,7 @@
     python -m pip install git+https://github.com/dusanrsc/quickprint.git
 
 # How To Use?
-    from quickprint.quickprint import * # p, i
+    from quickprint.quickprint import *
     p("Hello, world.")
 
 # Output:
