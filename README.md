@@ -11,12 +11,12 @@
 
 # How To Use? With Example.
 ```python
-    # Importing sub-modules.
-    from quickprint.quickprint import *
+# Importing sub-modules.
+from quickprint.quickprint import *
 
-    # Code example.
-    _input = i("Your Name: ")
-    p(f"Hello, {_input}!")
+# Code example.
+_input = i("Your Name: ")
+p(f"Hello, {_input}!")
 ```
 # Output Example:
     Hello, Dušan!
