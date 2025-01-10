@@ -5,7 +5,7 @@
 # NOTE: JUST USE IT AS STANDARD PYTHONS INPUT() AND PRINT() FUNCTIONS.
 
 # How To Set-Up?
-# Download "quickprint" Library From GitHub with Command:
+# Download QuickPrint Library From GitHub with Command:
     python3 -m pip install git+https://github.com/dusanrsc/quickprint.git
 
 # How To Use?
