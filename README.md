@@ -10,8 +10,10 @@
     python -m pip install --upgrade git+https://github.com/dusanrsc/quickprint.git
 
 # How To Use Example?
+    # Importing modules.
     from quickprint.quickprint import *
 
+    # Code example.
     _input = i("Your Name: ")
     p(f"Hello, {_input}!")
 
