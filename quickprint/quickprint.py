@@ -1,6 +1,6 @@
 # quickprint/quickprint.py
 
-def p(*args, **kwargs):
+def p(*args, **kwargs) -> str:
     """
     Function p() that replaces print() with all its capabilities.
 
@@ -10,7 +10,7 @@ def p(*args, **kwargs):
     print(*args, **kwargs)
 
 
-def i(prompt="", /):
+def i(prompt="", /) -> str:
     """
     Function i() that replaces input() with all its capabilities.
 
