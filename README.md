@@ -10,7 +10,7 @@
     python -m pip install --upgrade git+https://github.com/dusanrsc/quickprint.git
 
 # How To Use Example?
-    # Importing modules.
+    # Importing module and sub-modules.
     from quickprint.quickprint import *
 
     # Code example.
