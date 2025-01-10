@@ -16,10 +16,13 @@ from quickprint.quickprint import *
 
 # Code example.
 _input = i("Your Name: ")
+
 p(f"Hello, {_input}!")
+p("Hello, world!")
 ```
 # Output Example:
     Hello, Dušan!
+    Hello, world!
 
 # Uninstall QuickPrint:
     python -m pip uninstall quickprint
