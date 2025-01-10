@@ -10,10 +10,9 @@
 
 # How To Use?
     from quickprint.quickprint import *
-    p("Hello, world.")
 
-# OR:
-    i("Enter: ")
+    _input_your_name = i("Your Name: ")
+    p(f"Hello, {_input_your_name}!")
 
 # Output:
-    Hello, world.
+    Hello, Dušan!
