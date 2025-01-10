@@ -11,3 +11,6 @@
 # How To Use?
     from quickprint.quickprint import *
     p("Hello, world.")
+
+# Output:
+    Hello, world.
