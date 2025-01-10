@@ -4,7 +4,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="quickprint",
-    version="1.0.0",
+    version="1.1.0",
     packages=find_packages(),
     description="A small module to replace print() and input() functions for reduced typing time.",
     long_description=open('README.md').read(),
