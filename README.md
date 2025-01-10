@@ -12,5 +12,8 @@
     from quickprint.quickprint import *
     p("Hello, world.")
 
+# OR:
+    i("Enter: ")
+
 # Output:
     Hello, world.
