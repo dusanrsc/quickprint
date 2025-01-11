@@ -2,8 +2,8 @@
 # ESPECIALLY USEFULL FOR REDUCING TIME SPENT IN MASSIVE PROJECTS WITH A LOT OF DEBUGGING.
 # USE IT AS STANDARD PYTHONS INPUT() AND PRINT() FUNCTIONS.
 
-# "Primarily developed for self-use and for fun."
-# "It opens the door for the development of future scalabile Python libraries."
+# Primarily developed for self-use and for fun.
+# It opens the door for the development of future scalabile Python libraries.
 
 # How To Set-Up?
 # Download QuickPrint Library From GitHub with:
@@ -17,8 +17,8 @@
 # Importing sub-modules.
 from quickprint.quickprint import *
 
-# Code example.
-_input = i("Your Name: ")
+# Code example
+_input = i(Your Name: ")
 
 p(f"Hello, {_input}!")
 p("Hello, world!")
