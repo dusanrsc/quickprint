@@ -21,11 +21,9 @@ from quickprint.quickprint import *
 _input = i(Your Name: ")
 
 p(f"Hello, {_input}!")
-p("Hello, world!")
 ```
 # Output Example:
-    Hi, Dušan!
-    Hello, world!
+    Hello, Dušan!
 
 # Uninstall QuickPrint:
     python -m pip uninstall quickprint
