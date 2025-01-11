@@ -19,7 +19,6 @@ from quickprint.quickprint import *
 
 # Code example
 _input = i(Your Name: ")
-
 p(f"Hello, {_input}!")
 ```
 # Output Example:
